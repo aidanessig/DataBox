@@ -4,4 +4,4 @@ this is a repository for exploring various datasets. each topic is in its own di
 
 ## Directory/Topic Guide:
 
-- [NFL Game Spreads](./NFL%20Game%20Spreads): analyzing historical NFL game data 
+- [NFL Game History](./NFL%20Game%20Spreads): analyzing historical NFL game data 
