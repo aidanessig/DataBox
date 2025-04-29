@@ -1,0 +1,7 @@
+# DataBox
+
+this is a repository for exploring various datasets. each topic is in its own directory.
+
+## Directory/Topic Guide:
+
+- [NFL Game Spreads](./NFL%20Game%20Spreads): analyzing historical NFL game data 
